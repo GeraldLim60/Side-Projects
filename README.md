@@ -1,2 +1,2 @@
 # Side-Projects
-Random Projects that I make for fun
+Random Projects that I create for new ideas
